@@ -9,4 +9,4 @@ jobs:
 
       steps:
         -name:Greetings
-        run: echo"Hello from your tejas"
+         run: echo"Hello from your tejas"
